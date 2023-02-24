@@ -1,2 +1,2 @@
-nltk.download('popular')
+python -c "import nltk; nltk.download('popular')"
 jupyter lab build
