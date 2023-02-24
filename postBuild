@@ -1,0 +1,2 @@
+nltk.download('popular')
+jupyter lab build
